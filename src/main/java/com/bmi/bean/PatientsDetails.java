@@ -15,6 +15,9 @@ public class PatientsDetails {
 	
 	private static PatientsDetails pd;
 	
+	/**
+	 * 
+	 */
 	private PatientsDetails() {
 		patientsList = new ArrayList<Patient>();
 	}
